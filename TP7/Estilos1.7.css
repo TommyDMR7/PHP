@@ -1,0 +1,63 @@
+h1.hgh{
+    color: rgb(115, 115, 223);
+    color: #fff;
+}
+.poiqwe{
+    background-color: rgb(115, 115, 223);
+    color: azure;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+.FRTR{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 30px;
+}
+.barra{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(115, 115, 223); /* Cambia el color de fondo según tus necesidades */
+    position: absolute;
+    top: 0;
+}
+.htg{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 1590px;
+    height: auto;
+}
+.menuOU{
+    background-color: rgb(136, 136, 236);
+}
+.haha{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.NOSE{
+    text-align: center;
+}
+table{
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.centrar-celda {
+    text-align: center; 
+    vertical-align: middle;
+    
+}
+.Prob{
+    background-color: rgb(227, 235, 242);
+}
+.vertu
+{
+    background-color: rgb(227, 235, 242);
+}
+.gris{
+    background-color: rgb(230, 230, 230);
+}
+.FRTR,.FRTR > a:visited{
+    color: rgb(115, 115, 223);
+}
