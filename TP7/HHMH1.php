@@ -14,7 +14,7 @@
     <u>
         <li><a href="Tarea1.7.php">INICIO</a></li>
     </u>
-    <h1>18710. Formulota</h1>
+    <h1>11338. Escalera de asteriscos</h1>
     <table border="1" cellspacing="0" 
     cellpadding = "8" class="jj">
         <tr>
