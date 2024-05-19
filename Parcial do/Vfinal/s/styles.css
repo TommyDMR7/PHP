@@ -1,0 +1,82 @@
+body {
+    font-family: monospace, sans-serif;
+    color: #00ffff;
+    margin: 0;
+    padding: 0;
+    height: 130vh; /* Set body height to 100 viewport height */
+    background-image: url("Arasaka.jpg");
+    background-size: cover; /* Cover the entire body */
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.container1 {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent black background */
+    border: 2px solid #33ffcc; /* Neon green border */
+    border-radius: 5px; /* Rounded corners */
+}
+  .container {
+    max-width: 800px;
+    margin: 50px auto; /* Center the content horizontally */
+    padding: 30px;
+    border: 2px solid #33ffcc; /* Neon green border */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  input[type="number"],
+  input[type="email"],
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #33ffcc; /* Neon green border */
+    border-radius: 3px; /* Rounded corners */
+    margin-bottom: 15px;
+  }
+  
+  input[type="submit"] {
+    background-color: #33ffcc; /* Neon green button */
+    color: #000; /* Black text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px; /* Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s ease; /* Add a smooth transition on hover */
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #99ff99; /* Lighter green on hover */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse; /* Remove borders between table cells */
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    border: 1px solid #33ffcc; /* Neon green border */
+    text-align: left;
+  }
+  
+  th {
+    background-color: #111; /* Darker background for table header */
+    color: #ccc; /* Lighter text for table header */
+  }
